@@ -10,24 +10,21 @@ plotly<br>
 
 plotly.py may be installed using pip...
 
-pip install plotly==3.9.0
+**pip install plotly==3.9.0**
+
 or conda.
 
-conda install -c plotly plotly=3.9.0
+**conda install -c plotly plotly=3.9.0**
+
 Jupyter Notebook Support
 For use in the Jupyter Notebook, install the notebook and ipywidgets packages using pip...
 
-pip install "notebook>=5.3" "ipywidgets>=7.2"
+**pip install "notebook>=5.3" "ipywidgets>=7.2"**
+
 or conda.
 
-conda install "notebook>=5.3" "ipywidgets>=7.2"
-JupyterLab Support (Python 3.5+)
-For use in JupyterLab, install the jupyterlab and ipywidgets packages using pip...
+**conda install "notebook>=5.3" "ipywidgets>=7.2"**
 
-pip install jupyterlab==0.35 "ipywidgets>=7.2"
-or conda.
-
-conda install jupyterlab=0.35 "ipywidgets>=7.2"
 
 # References
 
